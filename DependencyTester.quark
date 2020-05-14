@@ -3,7 +3,7 @@
   summary: "Just testing dependencies",
   version: "0.001",
   schelp: "DependencyTester.schelp",
-  dependencies: ["https://github.com/madskjeldgaard/Sleet"],
+  dependencies: ["https://github.com/madskjeldgaard/Else", "https://github.com/scztt/OfflineProcess.quark"],
   license: "GNU GPL v3.0",
   copyright: "madskjeldgaard",
   ext_dependency: "",
