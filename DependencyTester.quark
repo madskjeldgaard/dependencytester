@@ -1,0 +1,11 @@
+(
+  name: "DependencyTester",
+  summary: "Just testing dependencies",
+  version: "0.001",
+  schelp: "DependencyTester.schelp",
+  dependencies: ["https://github.com/madskjeldgaard/Sleet"],
+  license: "GNU GPL v3.0",
+  copyright: "madskjeldgaard",
+  ext_dependency: "",
+  url: "https://github.com/madskjeldgaard/dependencytester"
+)
